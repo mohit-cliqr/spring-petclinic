@@ -11,7 +11,7 @@
 <body>
 <div class="container">
     <jsp:include page="fragments/bodyHeader.jsp"/>
-    <h2>Welcome to Cisco Live 2017!!</h2>
+    <h2>Welcome to Cisco Live 2018!!</h2>
     <spring:url value="/resources/images/pets.png" htmlEscape="true" var="petsImage"/>
     <img src="${petsImage}"/>
 
